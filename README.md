@@ -25,6 +25,7 @@ Symfony **4.4** and MySql - RestFul Service
 ```
 ```sh
 5. docker-compose exec php bin/console doctrine:migrations:migrate
+-> [yes or no] yes 
 ```
 
 
