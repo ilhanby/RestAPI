@@ -24,12 +24,8 @@ Symfony **4.4** and MySql - RestFul Service
 ```sh
 5. docker-compose exec php bin/console doctrine:migrations:migrate
 ```
-```sh
-6. docker-compose exec php bin/console doctrine:fixtures:load
-```
-```sh
-7. docker-compose exec php bin/console assets:install –symlink public/
-```
+
+### http://localhost
 
 
 ## Click on the image below for postman documentation
