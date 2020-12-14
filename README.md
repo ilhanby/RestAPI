@@ -15,6 +15,8 @@ Symfony **4.4** and MySql - RestFul Service
 ```sh
 2. docker-compose up -d
 ```
+**NOTE** => ***If errors occur depending on the internet speed, continue with the same step.***
+
 ```sh
 3. docker-compose exec php composer install
 ```
