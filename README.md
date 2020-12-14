@@ -7,7 +7,7 @@ Symfony **4.4** and MySql - RestFul Service
 ```sh
 1. docker-compose build
 ```
-**If php: 7.4-fpm fails, try again. because it may expire**
+**NOTE** => ***If php: 7.4-fpm fails, try again. because it may expire***
 ```sh
 1. docker-compose build
 ```
@@ -24,8 +24,6 @@ Symfony **4.4** and MySql - RestFul Service
 ```sh
 5. docker-compose exec php bin/console doctrine:migrations:migrate
 ```
-
-### http://localhost
 
 
 ## Click on the image below for postman documentation
